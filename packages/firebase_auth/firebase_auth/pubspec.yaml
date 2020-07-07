@@ -21,12 +21,6 @@ dependencies:
   firebase_rest_auth:
     git: git@github.com:simpleclub/firebase_rest_auth.git
     
-  firebase_auth:
-    git:
-      url: https://github.com/Wanzu95/flutterfire
-      path: packages/firebase_auth/firebase_auth
-      ref: firebase-rest-auth
-    
   meta: ^1.0.4
   firebase_core: ^0.4.5
   firebase_auth_platform_interface: ^1.1.7
